@@ -1,8 +1,8 @@
-import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 void main() {
-  runApp(CounterApp());
+  runApp(const CounterApp());
 }
 
 class CounterApp extends StatelessWidget {
@@ -24,42 +24,40 @@ class homePage extends StatefulWidget {
   State<homePage> createState() => _homePageState();
 }
 
-
-class homePageState extends State<homePage>{
-
+class _homePageState extends State<homePage> {
   @override
-  Widget build(BuildContext context){
+  Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          title:const Text(
+          title: const Text(
             'Counter App',
-            style: TextStyle(color: Colors.black,fontSize: 25,fontWeight: FontWeight.bold),
+            style: TextStyle(
+                fontSize: 23, fontWeight: FontWeight.bold, color: Colors.white),
           ),
+          backgroundColor: Colors.amber,
         ),
-        backgroundColor: Colors.amberAccent,
         body: Center(
           child: Text(
             '$count',
-            style:const TextStyle(
-                fontWeight: FontWeight.bold,
-                fontSize: 50,
-                color: Colors.black
+            style: const TextStyle(
+              fontSize: 50,
+              fontWeight: FontWeight.bold,
+              color: Colors.amber,
             ),
           ),
         ),
         floatingActionButton: FloatingActionButton(
-          backgroundColor: Colors.black87,
+          backgroundColor: Colors.amber,
           onPressed: (){
             setState(() {
               count++;
             });
           },
-          child:const Icon(CupertinoIcons.add,color: Colors.white,),
+          child: const Icon(CupertinoIcons.add,color: Colors.white),
         ),
       ),
-
     );
   }
 }

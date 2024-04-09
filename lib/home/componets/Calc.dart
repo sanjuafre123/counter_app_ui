@@ -4,9 +4,14 @@ void main() {
   runApp(const calc());
 }
 
-class calc extends StatelessWidget {
+class calc extends StatefulWidget {
   const calc({super.key});
 
+  @override
+  State<calc> createState() => _calcState();
+}
+
+class _calcState extends State<calc> {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
@@ -24,9 +29,9 @@ class homePage extends StatefulWidget {
 }
 
 class homePageState extends State<homePage> {
-  @override
   State<homePage> creatState() => homePageState();
 
+  @override
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
