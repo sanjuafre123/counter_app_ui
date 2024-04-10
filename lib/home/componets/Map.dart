@@ -42,10 +42,8 @@ class homePageState extends State<homePage> {
           ),
           backgroundColor: Colors.blue,
           centerTitle: true,
-
           title: const Text(
-            'Icons',
-
+            'Map',
             style: TextStyle(color: Colors.white, fontSize: 20),
           ),
         ),
