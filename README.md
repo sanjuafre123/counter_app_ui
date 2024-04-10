@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <h3 align="center"> 1.First Task </h3>
 
-###
+
 
 <h1 align="left"></h1>
 
@@ -28,7 +28,7 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 <h3 align="center"> 2.second Task </h3>
-###
+
 <h1 align="left"></h1>
 
 
@@ -38,7 +38,7 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 <h3 align="center"> 3.Third Task </h3>
-###
+
 <h1 align="left"></h1>
 
 
@@ -48,9 +48,9 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 <h3 align="center"> 3.Third Task </h3>
-###
+
 <h1 align="left"></h1>
-###
+
 <div align="center">
 
   <img src = "https://github.com/sanjuafre123/counter_app_ui/assets/148860124/72eb410d-7bb9-4798-bb9c-7e02c8085689" height ="550">
