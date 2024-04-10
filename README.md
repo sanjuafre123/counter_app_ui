@@ -28,14 +28,20 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 <h3 align="center"> 2.second Task </h3>
-
 ###
-
 <h1 align="left"></h1>
-
 ###
 <div align="center">
 
   <img src = "https://github.com/sanjuafre123/counter_app_ui/assets/148860124/4ab7c6d2-0645-4c35-b865-b198ce659614" height ="550">
 </div>
-\
+
+<h3 align="center"> 3.Third Task </h3>
+###
+<h1 align="left"></h1>
+###
+<div align="center">
+
+  <img src = "https://github.com/sanjuafre123/counter_app_ui/assets/148860124/c62c09ad-a507-4949-b451-2b620da9b017" height ="550">
+</div>
+
