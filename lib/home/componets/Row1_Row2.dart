@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-Row Row1() {
+Row row1() {
   return Row(
     children: [
       Container(
@@ -124,7 +124,7 @@ Row Row2() {
             ),
           ],
         ),
-        child: const Icon(Icons.add, color: Color(0xFF616161), size: 37,),
+        child: const Icon(Icons.verified_user, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -144,7 +144,7 @@ Row Row2() {
           ],
         ),
         child: const Icon(
-          Icons.radio_button_checked, color: Color(0xFF616161), size: 37,),
+          Icons.person, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -164,7 +164,7 @@ Row Row2() {
           ],
         ),
         child: const Icon(
-          Icons.keyboard_arrow_left, color: Color(0xFF616161), size: 37,),
+          Icons.sync, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -184,7 +184,7 @@ Row Row2() {
           ],
         ),
         child: const Icon(
-          Icons.keyboard_arrow_right, color: Color(0xFF616161), size: 37,),
+          Icons.search, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -199,11 +199,10 @@ Row Row2() {
               color: Colors.teal,
               offset: Offset.fromDirection(BorderSide.strokeAlignOutside),
               blurRadius: 8,
-
             ),
           ],
         ),
-        child: const Icon(Icons.alarm, color: Color(0xFF616161), size: 37,),
+        child: const Icon(Icons.explicit, color: Color(0xFF616161), size: 37,),
       ),
     ],
   );
