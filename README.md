@@ -47,7 +47,7 @@ samples, guidance on mobile development, and a full API reference.
   <img src = "https://github.com/sanjuafre123/counter_app_ui/assets/148860124/c62c09ad-a507-4949-b451-2b620da9b017" height ="550">
 </div>
 
-<h3 align="center"> 3.Third Task </h3>
+<h3 align="center"> 4.Forth Task </h3>
 
 <h1 align="left"></h1>
 
@@ -56,7 +56,7 @@ samples, guidance on mobile development, and a full API reference.
   <img src = "https://github.com/sanjuafre123/counter_app_ui/assets/148860124/74ba210a-471b-4cd4-ad97-27757262062f" height ="550">
 </div>
 
-<h3 align="center"> .Forth Task </h3>
+<h3 align="center"> 5.fifth Task </h3>
 
 <h1 align="left"></h1>
 
