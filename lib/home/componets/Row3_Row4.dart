@@ -20,7 +20,7 @@ Row Row3() {
             ),
           ],
         ),
-        child: const Icon(Icons.add, color: Color(0xFF616161), size: 37,),
+        child: const Icon(Icons.message, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -40,7 +40,7 @@ Row Row3() {
           ],
         ),
         child: const Icon(
-          Icons.radio_button_checked, color: Color(0xFF616161), size: 37,),
+          Icons.menu, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -60,7 +60,7 @@ Row Row3() {
           ],
         ),
         child: const Icon(
-          Icons.keyboard_arrow_left, color: Color(0xFF616161), size: 37,),
+          Icons.directions_bike_outlined, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -80,7 +80,7 @@ Row Row3() {
           ],
         ),
         child: const Icon(
-          Icons.keyboard_arrow_right, color: Color(0xFF616161), size: 37,),
+          Icons.airline_seat_recline_extra, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -99,7 +99,7 @@ Row Row3() {
             ),
           ],
         ),
-        child: const Icon(Icons.alarm, color: Color(0xFF616161), size: 37,),
+        child: const Icon(Icons.keyboard_alt_outlined, color: Color(0xFF616161), size: 37,),
       ),
     ],
   );
@@ -124,7 +124,7 @@ Row Row4() {
             ),
           ],
         ),
-        child: const Icon(Icons.add, color: Color(0xFF616161), size: 37,),
+        child: const Icon(Icons.safety_check_rounded, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -144,7 +144,7 @@ Row Row4() {
           ],
         ),
         child: const Icon(
-          Icons.radio_button_checked, color: Color(0xFF616161), size: 37,),
+          Icons.face, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -164,7 +164,7 @@ Row Row4() {
           ],
         ),
         child: const Icon(
-          Icons.keyboard_arrow_left, color: Color(0xFF616161), size: 37,),
+          Icons.rectangle, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -184,7 +184,7 @@ Row Row4() {
           ],
         ),
         child: const Icon(
-          Icons.keyboard_arrow_right, color: Color(0xFF616161), size: 37,),
+          Icons.play_arrow, color: Color(0xFF616161), size: 37,),
       ),
 
       Container(
@@ -203,7 +203,7 @@ Row Row4() {
             ),
           ],
         ),
-        child: const Icon(Icons.alarm, color: Color(0xFF616161), size: 37,),
+        child: const Icon(Icons.currency_rupee, color: Color(0xFF616161), size: 37,),
       ),
     ],
   );

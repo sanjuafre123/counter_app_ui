@@ -1,8 +1,8 @@
-
 import 'package:flutter/material.dart';
-import 'home/componets/Row1_Row2.dart';
-import 'home/componets/Row3_Row4.dart';
-import 'home/componets/Row5_Row6.dart';
+
+import 'Row1_Row2.dart';
+import 'Row3_Row4.dart';
+import 'Row5_Row6.dart';
 
 void main() {
   runApp(const mapList());
@@ -51,12 +51,12 @@ class homePageState extends State<homePage> {
             ),
           ),
           backgroundColor: const Color(0xFFeeeeee),
-          body: const SingleChildScrollView(
+          body: SingleChildScrollView(
             child: Column(
               children: [
                 SingleChildScrollView(
                   scrollDirection: Axis.horizontal,
-                  child: Row1(),
+                  child: row1(),
                 ),
 
                 SingleChildScrollView(
