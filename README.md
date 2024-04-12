@@ -65,3 +65,13 @@ samples, guidance on mobile development, and a full API reference.
   <img src = "https://github.com/sanjuafre123/counter_app_ui/assets/148860124/28f94be8-b2d9-4d88-a83c-4be73050b6db" height ="550">
 </div>
 
+<h3 align="center"> 6.sixth Task </h3>
+
+<h1 align="left"></h1>
+
+<div align="center">
+
+  <img src = "https://github.com/sanjuafre123/counter_app_ui/assets/148860124/e44e0cf8-1bd9-4b03-a327-3590d291a42b" height ="550">
+</div>
+
+
